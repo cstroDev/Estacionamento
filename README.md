@@ -27,15 +27,15 @@ Um operador de estacionamento precisa de um sistema para controlar o número de 
     - Certifique-se de ter o Node.js instalado em sua máquina.
 
 2.  **Instalação de Dependências:**
-    - Abra o terminal na pasta do projeto e execute o comando abaixo para instalar a biblioteca `prompt-sync`:
+    - Abra o terminal na pasta do projeto e execute o comando abaixo para instalar as dependências:
       ```bash
-      npm install prompt-sync
+      npm i
       ```
 
 3.  **Execução do Programa:**
     - Após a instalação, execute o script com o seguinte comando:
       ```bash
-      node freiEstacionamento.js
+      node estacionamento.js
       ```
 
 ## 📋 Cenários de Uso
